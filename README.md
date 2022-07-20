@@ -1,5 +1,5 @@
 # claim-crud-api
-## Technical Case for JSON based CRUD API
+## Technical Case for JSON based CRUD API [Cloud Insurance]
 ### Case study
 
 Develop a simple JSON based CRUD API provider for Claim handling in such a way, that it is
