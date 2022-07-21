@@ -30,7 +30,7 @@ use Symfony\Component\Validator\Constraints as Assert;
                 'groups' => ['customer:item']
             ]
         ],
-        'patch' => [
+        'put' => [
             'normalization_context' => [
                 'groups' => ['customer:item']
             ]
