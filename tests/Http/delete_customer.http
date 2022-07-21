@@ -1,0 +1,4 @@
+DELETE https://127.0.0.1:8000/api/customers/41
+Content-Type: application/json
+
+###

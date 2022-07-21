@@ -1,0 +1,17 @@
+PUT https://127.0.0.1:8001/api/customers/50
+Content-Type: application/json
+
+{
+  "Name": "qwe",
+  "SSN": "123",
+  "accounts": [
+    {
+      "AccountNumber": "11111111111",
+      "AccountType": "PRIVATE",
+      "AccountName": "string",
+      "Currency": "USD"
+    }
+  ]
+}
+
+###
